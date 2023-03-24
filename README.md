@@ -1,2 +1,2 @@
 # dummy
-push
+https://mobrpg.github.io/dummy/
