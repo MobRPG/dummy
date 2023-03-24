@@ -23,6 +23,6 @@ jobs:
         git --version
         git config user.name "GitHub Actions Bot"
         git config user.email "<>"
-        git switch -c gh_pages
+        git switch gh_pages
         git rebase main
         git push origin gh_pages
